@@ -21,5 +21,5 @@ function modelLoaded()
 
 function draw()
 {
-    image(video, 0, 0, 380, 380);
+    image(img, 0, 0, 380, 380);
 }
