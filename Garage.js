@@ -41,7 +41,7 @@ function gotResult(error, results)
 
 function draw()
 {
-    image(video, 0, 0, 420, 380);
+    image(img, 0, 0, 420, 380);
 
     if(status != "")
     {
